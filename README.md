@@ -20,6 +20,6 @@ You need to install following modules :
 
 ## Description 
 Download all files and put in a directory . Run the memory_puzzle.py file to start the game . 
-You have 20 chances to complete this game . The app does not contain your any data , so if 
+You have 20 chances to complete this game . This app not stored any data, so if 
 you close the game window the game start from the begining .
 <P>***** PLAY & LEARN & ENJOY *****</P>
